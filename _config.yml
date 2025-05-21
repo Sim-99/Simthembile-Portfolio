@@ -1,4 +1,5 @@
 title: Simthembile Capa
-logo: npnn.jpg
-Theme: minimal-mistakes
+theme: minimal-mistakes-jekyll
 
+# Optional but safe to include:
+logo: /npnn.jpg
